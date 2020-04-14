@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-30 21:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugin.py:21
+msgid "1 minute"
+msgstr ""
+
+#: plugin.py:23
+msgid "10 minutes"
+msgstr ""
+
+#: plugin.py:23
+msgid "15 minutes"
+msgstr ""
+
+#: plugin.py:23
+msgid "20 minutes"
+msgstr ""
+
+#: plugin.py:22
+msgid "3 minutes"
+msgstr ""
+
+#: plugin.py:24
+msgid "30 minutes"
+msgstr ""
+
+#: plugin.py:21
+msgid "30 seconds"
+msgstr ""
+
+#: plugin.py:22
+msgid "5 minutes"
+msgstr ""
+
+#: plugin.py:24
+msgid "60 minutes"
+msgstr ""
+
+#: plugin.py:336
+msgid "Autorun is disabled!"
+msgstr ""
+
+#: plugin.py:227
+msgid "Before uninstall this plugin set epg.dat path back to default!"
+msgstr ""
+
+#: plugin.py:133
+msgid "Cancel"
+msgstr ""
+
+#: plugin.py:123
+msgid "Create log file"
+msgstr ""
+
+#: plugin.py:209
+msgid "Default path"
+msgstr ""
+
+#: plugin.py:117
+msgid "Enable sleeping"
+msgstr ""
+
+#: plugin.py:204
+msgid "Epg.dat here"
+msgstr ""
+
+#: plugin.py:103
+msgid "HDD Sleep"
+msgstr ""
+
+#: plugin.py:413
+msgid "HDD sleeptime settings"
+msgstr ""
+
+#: plugin.py:413
+msgid "HddSleep"
+msgstr ""
+
+#: plugin.py:166
+msgid "HddSleep Configuration"
+msgstr ""
+
+#: plugin.py:137
+msgid "Mounted devices:"
+msgstr ""
+
+#: plugin.py:134
+msgid "Ok"
+msgstr ""
+
+#: plugin.py:126
+msgid "Path for epg.dat"
+msgstr ""
+
+#: plugin.py:139
+msgid "Process:"
+msgstr ""
+
+#: plugin.py:202
+msgid "Sleep"
+msgstr ""
+
+#: plugin.py:118 plugin.py:119 plugin.py:120 plugin.py:121 plugin.py:122
+msgid "Sleep time for"
+msgstr ""
+
+#: plugin.py:191
+msgid "Version"
+msgstr ""
+
+#: plugin.py:152 plugin.py:156
+msgid "close plugin"
+msgstr ""
+
+#: plugin.py:159
+msgid "list of mounted devices down"
+msgstr ""
+
+#: plugin.py:158
+msgid "list of mounted devices up"
+msgstr ""
+
+#: plugin.py:21
+msgid "none"
+msgstr ""
+
+#: plugin.py:281
+msgid "on"
+msgstr ""
+
+#: plugin.py:153 plugin.py:157
+msgid "save configuration and exit"
+msgstr ""
+
+#: plugin.py:154
+msgid "sleep selected device"
+msgstr ""
+
+#: plugin.py:155
+msgid "store Epg.dat on selected device"
+msgstr ""
+
+msgid "HddSleep: not found tool hd-idle!"
+msgstr ""
+

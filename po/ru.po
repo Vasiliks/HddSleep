@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Enigma 2 HddSleep Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-16 23:05+0100\n"
+"PO-Revision-Date: 2016-12-10 21:09+0200\n"
+"Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
+"Language-Team: ims\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ru\n"
+"X-Generator: Poedit 1.8.9\n"
+
+msgid "1 minute"
+msgstr "1 минута"
+
+msgid "10 minutes"
+msgstr "10 минут"
+
+msgid "15 minutes"
+msgstr "15 минут"
+
+msgid "20 minutes"
+msgstr "20 минут"
+
+msgid "3 minutes"
+msgstr "3 минуты"
+
+msgid "30 minutes"
+msgstr "30 минут"
+
+msgid "30 seconds"
+msgstr "30 секунд"
+
+msgid "5 minutes"
+msgstr "5 минут"
+
+msgid "60 minutes"
+msgstr "60 минут"
+
+msgid "Autorun is disabled!"
+msgstr "Автозапуск отключен!"
+
+msgid "Before uninstall this plugin set epg.dat path back to default!"
+msgstr ""
+"Перед удалением этого плагина, установите расположение хранения epg.dat по "
+"дефолту!"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Create log file"
+msgstr "Создать лог файл"
+
+msgid "Default path"
+msgstr "Дефолное расположение"
+
+msgid "Enable sleeping"
+msgstr "Включить режим сна"
+
+msgid "Epg.dat here"
+msgstr "epg.dat здесь"
+
+msgid "HDD Sleep"
+msgstr "Режим сна HDD"
+
+msgid "HDD sleeptime settings"
+msgstr "Настройки времени сна HDD"
+
+msgid "HddSleep"
+msgstr "Режим сна HDD"
+
+msgid "HddSleep Configuration"
+msgstr "Конфигурация режима сна HDD"
+
+msgid "HddSleep: not found tool hd-idle!"
+msgstr "Режим сна HDD: не найдена утилита hd-idle!"
+
+msgid "Mounted devices:"
+msgstr "Примонтировано:"
+
+msgid "Ok"
+msgstr "Ок"
+
+msgid "Path for epg.dat"
+msgstr "Расположение для epg.dat"
+
+msgid "Process:"
+msgstr "Процесс:"
+
+msgid "Sleep"
+msgstr "Сон"
+
+msgid "Sleep time for"
+msgstr "Время сна для"
+
+msgid "Version: %s"
+msgstr "Версия: %s"
+
+msgid "close plugin"
+msgstr "закрыть плагин"
+
+msgid "device type:"
+msgstr "тип накопителя:"
+
+msgid "list of mounted devices down"
+msgstr "список смонтированых накопителей вниз"
+
+msgid "list of mounted devices up"
+msgstr "список смонтированых накопителей вверх"
+
+msgid "none"
+msgstr "ничего"
+
+msgid "on"
+msgstr "вкл."
+
+msgid "save configuration and exit"
+msgstr "сохранить настройки и выйти"
+
+msgid "sleep selected device"
+msgstr "режим сна для выбранного накопителя"
+
+msgid "store Epg.dat on selected device"
+msgstr "сохранить epg.dat на выбранном накопителе"
